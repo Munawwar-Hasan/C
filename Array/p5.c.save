@@ -1,0 +1,6 @@
+#include<stdio.h>
+int main()
+{
+int i,j,temp,num[5];
+printf("Please enter any five numbers :\n");
+
